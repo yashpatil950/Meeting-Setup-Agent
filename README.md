@@ -65,7 +65,7 @@ On first run, visit the authorization URL that appears in the console to grant G
    ```
 3. Reply with `approve 12` to add to calendar or `skip 12` to ignore
 
-## Architecture
+## Architecture -
 
 - **FastAPI**: Web server and API endpoints
 - **APScheduler**: Email polling every 90 seconds
