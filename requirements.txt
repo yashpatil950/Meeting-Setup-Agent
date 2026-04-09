@@ -1,0 +1,16 @@
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic>=2
+langchain
+langchain-openai
+langchain-anthropic
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+twilio
+APScheduler
+python-dateutil
+sqlite-utils
+python-multipart
